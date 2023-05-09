@@ -4,7 +4,7 @@ import { Image } from 'react-bootstrap'
 const Rodape = () => {
   return (
     <div style={{width:"100% "}} className='bg-dark text-white text-center p-5'>
-     <img width={100} src='/images/log.png'></img>
+     <img width={100} src='/images/jikan_api.png'></img>
     </div>
   )
 }

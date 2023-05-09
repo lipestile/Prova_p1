@@ -9,10 +9,10 @@ const Cabecalho = () => {
     <>
     <Navbar bg="dark" variant="dark">
         <Container>
-          <Navbar.Brand href="/deputados"><img width={'100'} src='/images/log.png'></img></Navbar.Brand>
+          <Navbar.Brand href="/animes"><img width={'100'} src='/images/jikan_api.png'></img></Navbar.Brand>
           <Nav className="me-auto">
-            <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#features">Features</Nav.Link>
+            <Nav.Link href="/animes">Anime</Nav.Link>
+            <Nav.Link href="/genero">genero</Nav.Link>
             <Nav.Link href="#pricing">Pricing</Nav.Link>
           </Nav>
         </Container>
